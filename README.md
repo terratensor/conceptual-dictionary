@@ -8,4 +8,6 @@
 веган, вегетарианцы, вегане, веганствующий, мясоеды
 ТСП, тип строя психики, строй психики, психический строй, психострой, психотип
 ```
+[Перейти к файлу словаря dictionary.txt](/dictionary.txt)
+
 Обсуждение: https://github.com/audetv/fct-search/discussions/112#discussioncomment-5652668
