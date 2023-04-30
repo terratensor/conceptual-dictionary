@@ -13,3 +13,9 @@ US > b7e7dfa0bf43a058752addd1eb1e1f47
 google > fdb12e0e265dd5c7fe5c90518ef92c50
 яндекс > d13025ef6d38512f24557f95645447a4
 yandex > d13025ef6d38512f24557f95645447a4
+Нео > matrix
+пифия > matrix
+Зеон > matrix
+Морфеус > matrix
+Тринити > matrix
+Воскрешения > matrix
